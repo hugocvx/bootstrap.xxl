@@ -246,10 +246,22 @@
         max-width: 8.333333%;
     }
 
+    .col-xxxl-1-5 {
+        -ms-flex: 0 0 12.5%;
+        flex: 0 0 12.5%;
+        max-width: 12.5%;
+    }
+
     .col-xxxl-2 {
         -ms-flex: 0 0 16.666667%;
         flex: 0 0 16.666667%;
         max-width: 16.666667%;
+    }
+
+    .col-xxxl-2-5 {
+        -ms-flex: 0 0 20.833333%;
+        flex: 0 0     20.833333%;
+        max-width:    20.833333%;
     }
 
     .col-xxxl-3 {
@@ -258,10 +270,22 @@
         max-width: 25%;
     }
 
+    .col-xxxl-3-5 {
+        -ms-flex: 0 0 29.166667%;
+        flex: 0 0 29.166667%;
+        max-width: 29.166667%;
+    }
+
     .col-xxxl-4 {
         -ms-flex: 0 0 33.333333%;
         flex: 0 0 33.333333%;
         max-width: 33.333333%;
+    }
+
+    .col-xxxl-4-5 {
+        -ms-flex: 0 0 37.5%;
+        flex: 0 0 37.5%;
+        max-width: 37.5%;
     }
 
     .col-xxxl-5 {
@@ -270,10 +294,22 @@
         max-width: 41.666667%;
     }
 
+    .col-xxxl-5-5 {
+        -ms-flex: 0 0 45.833333%;
+        flex: 0 0 45.833333%;
+        max-width: 45.833333%;
+    }
+
     .col-xxxl-6 {
         -ms-flex: 0 0 50%;
         flex: 0 0 50%;
         max-width: 50%;
+    }
+
+    .col-xxxl-6-5 {
+        -ms-flex: 0 0 54.166667%;
+        flex: 0 0 54.166667%;
+        max-width: 54.166667%;
     }
 
     .col-xxxl-7 {
@@ -282,10 +318,22 @@
         max-width: 58.333333%;
     }
 
+    .col-xxxl-7-5 {
+        -ms-flex: 0 0 65.5%;
+        flex: 0 0 65.5%;
+        max-width: 65.5%;
+    }
+
     .col-xxxl-8 {
         -ms-flex: 0 0 66.666667%;
         flex: 0 0 66.666667%;
         max-width: 66.666667%;
+    }
+
+    .col-xxxl-8-5 {
+        -ms-flex: 0 0 70.833333%;
+        flex: 0 0 70.833333%;
+        max-width: 70.833333%;
     }
 
     .col-xxxl-9 {
@@ -294,16 +342,34 @@
         max-width: 75%;
     }
 
+    .col-xxxl-9-5 {
+        -ms-flex: 0 0 79.166667%;
+        flex: 0 0 79.166667%;
+        max-width: 79.166667%;
+    }
+
     .col-xxxl-10 {
         -ms-flex: 0 0 83.333333%;
         flex: 0 0 83.333333%;
         max-width: 83.333333%;
     }
 
+    .col-xxxl-10-5 {
+        -ms-flex: 0 0 87.5%;
+        flex: 0 0 87.5%;
+        max-width: 87.5%;
+    }
+
     .col-xxxl-11 {
         -ms-flex: 0 0 91.666667%;
         flex: 0 0 91.666667%;
         max-width: 91.666667%;
+    }
+
+    .col-xxxl-11-5 {
+        -ms-flex: 0 0 95.833333%;
+        flex: 0 0 95.833333%;
+        max-width: 95.833333%;
     }
 
     .col-xxxl-12 {
