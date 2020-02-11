@@ -1,4 +1,4 @@
-# Bootstrap XXL
+# Bootstrap4 XXL (and XXXL)
 
 XXL (media min width 1900px) and XXXL (media min width 3000px) grid definition for Bootstrap. 
 
